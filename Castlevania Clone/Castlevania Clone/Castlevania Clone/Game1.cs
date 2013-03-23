@@ -75,8 +75,9 @@ namespace Castlevania_Clone
         bool left = true;
         bool skeletonVisible = true;
         bool medusaVisible = true;
-        bool level1 = false;
-        bool level2 = true;
+        bool level1 = true;
+        bool level2 = false;
+        bool scrolling = false;
 
         int currentFrameX = 0;
         int currentFrameY = 0;
@@ -294,14 +295,20 @@ namespace Castlevania_Clone
             KeyboardState keyState = Keyboard.GetState();
             if (keyState.IsKeyDown(Keys.Right))
             {
-                if (trevorPosition.X < 605)
+                // if the screen is at boundaries, then go to right edge
+                if (trevorPosition.X < 605 && !scrolling)
                     trevorPosition.X += 1;
-                if (viewPosX > -1651 && trevorPosition.X > 320)
+                // otherwise, limit the boundary to the center of the screen to scroll
+                if (trevorPosition.X > 300 && viewPosX > -1651)
                 {
+                    scrolling = true;
                     viewPosX -= 1;
                     foreach (Candle c in candles)
                         c.location.X -= 1;
                 }
+                // allow player to reach right edge of screen by disabling scrolling since we are at edge
+                if (viewPosX <= -1651)
+                    scrolling = false;
 
                 currentFrameY = 62;
                 timeSinceLastFrame += gameTime.ElapsedGameTime.Milliseconds;
@@ -316,14 +323,20 @@ namespace Castlevania_Clone
             }
             else if (keyState.IsKeyDown(Keys.Left))
             {
-                if (trevorPosition.X > 0)
+                // if not scrolling, allow the player to reach the left edge
+                if (trevorPosition.X > 0 && !scrolling)
                     trevorPosition.X -= 1;
-                if ((viewPosX < 0) && trevorPosition.X <= 320)
+                // we are scrolling, keep player in center of screen
+                if (viewPosX < 0 && trevorPosition.X >= 300)
                 {
+                    scrolling = true;
                     viewPosX += 1;
                     foreach (Candle c in candles)
                         c.location.X += 1;
                 }
+                // we are at left boundary, allow player to reach the edge by disabling scrolling
+                if (viewPosX == 0)
+                    scrolling = false;
 
                 currentFrameY = 0;
                 timeSinceLastFrame += gameTime.ElapsedGameTime.Milliseconds;
