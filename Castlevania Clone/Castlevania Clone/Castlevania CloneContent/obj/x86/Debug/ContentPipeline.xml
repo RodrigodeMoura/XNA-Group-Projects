@@ -1,0 +1,217 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Images\VampireBatR.png</Source>
+      <Name>Images\VampireBatR</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Azad\Documents\Visual Studio 2010\Projects\Castlevania Clone\Castlevania Clone\Castlevania Clone\bin\x86\Debug\Content\Images\VampireBatR.xnb</Output>
+      <Time>2013-03-19T14:11:38.4640876-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\block.png</Source>
+      <Name>Images\block</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Azad\Documents\Visual Studio 2010\Projects\Castlevania Clone\Castlevania Clone\Castlevania Clone\bin\x86\Debug\Content\Images\block.xnb</Output>
+      <Time>2013-03-19T18:38:58.4619591-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\stair.png</Source>
+      <Name>Images\stair</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Azad\Documents\Visual Studio 2010\Projects\Castlevania Clone\Castlevania Clone\Castlevania Clone\bin\x86\Debug\Content\Images\stair.xnb</Output>
+      <Time>2013-03-19T18:38:31.6459277-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\simon.png</Source>
+      <Name>Images\simon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Azad\Documents\Visual Studio 2010\Projects\Castlevania Clone\Castlevania Clone\Castlevania Clone\bin\x86\Debug\Content\Images\simon.xnb</Output>
+      <Time>2013-03-19T18:38:09.8770406-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\castlevaniast1.png</Source>
+      <Name>Images\castlevaniast1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Azad\Documents\Visual Studio 2010\Projects\Castlevania Clone\Castlevania Clone\Castlevania Clone\bin\x86\Debug\Content\Images\castlevaniast1.xnb</Output>
+      <Time>2013-03-19T18:31:54.235287-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\music.mp3</Source>
+      <Name>Music\music</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Azad\Documents\Visual Studio 2010\Projects\Castlevania Clone\Castlevania Clone\Castlevania Clone\bin\x86\Debug\Content\Music\music.xnb</Output>
+      <Extra>C:\Users\Azad\Documents\Visual Studio 2010\Projects\Castlevania Clone\Castlevania Clone\Castlevania Clone\bin\x86\Debug\Content\Music\music.wma</Extra>
+      <Time>2013-03-19T15:55:28.5955467-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\LargeCandle.gif</Source>
+      <Name>Images\LargeCandleGif</Name>
+      <Importer>GifAminationImporter</Importer>
+      <Processor>GifAnimationProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Azad\Documents\Visual Studio 2010\Projects\Castlevania Clone\Castlevania Clone\Castlevania Clone\bin\x86\Debug\Content\Images\LargeCandleGif.xnb</Output>
+      <Time>2013-03-20T15:38:06.829054-07:00</Time>
+    </Item>
+    <Item>
+      <Source>MedusaR.gif</Source>
+      <Name>MedusaR</Name>
+      <Importer>GifAminationImporter</Importer>
+      <Processor>GifAnimationProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Azad\Documents\Visual Studio 2010\Projects\Castlevania Clone\Castlevania Clone\Castlevania Clone\bin\x86\Debug\Content\MedusaR.xnb</Output>
+      <Time>2013-03-19T19:29:34.7449105-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\MedusaR.gif</Source>
+      <Name>Images\MedusaR</Name>
+      <Importer>GifAminationImporter</Importer>
+      <Processor>GifAnimationProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Azad\Documents\Visual Studio 2010\Projects\Castlevania Clone\Castlevania Clone\Castlevania Clone\bin\x86\Debug\Content\Images\MedusaR.xnb</Output>
+      <Time>2013-03-20T12:06:27.68029-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\TrevorC3.png</Source>
+      <Name>Images\TrevorC3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Azad\Documents\Visual Studio 2010\Projects\Castlevania Clone\Castlevania Clone\Castlevania Clone\bin\x86\Debug\Content\Images\TrevorC3.xnb</Output>
+      <Time>2013-03-20T11:38:44.2234979-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\trevorwalk.png</Source>
+      <Name>Images\trevorwalk</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Azad\Documents\Visual Studio 2010\Projects\Castlevania Clone\Castlevania Clone\Castlevania Clone\bin\x86\Debug\Content\Images\trevorwalk.xnb</Output>
+      <Time>2013-03-20T16:06:26.3277274-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\trevorwalkR.png</Source>
+      <Name>Images\trevorwalkR</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Azad\Documents\Visual Studio 2010\Projects\Castlevania Clone\Castlevania Clone\Castlevania Clone\bin\x86\Debug\Content\Images\trevorwalkR.xnb</Output>
+      <Time>2013-03-20T15:23:32.4712845-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\trevorwhip.png</Source>
+      <Name>Images\trevorwhip</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Azad\Documents\Visual Studio 2010\Projects\Castlevania Clone\Castlevania Clone\Castlevania Clone\bin\x86\Debug\Content\Images\trevorwhip.xnb</Output>
+      <Time>2013-03-20T17:53:07.2871473-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\DaggerL.png</Source>
+      <Name>Images\DaggerL</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Azad\Documents\Visual Studio 2010\Projects\Castlevania Clone\Castlevania Clone\Castlevania Clone\bin\x86\Debug\Content\Images\DaggerL.xnb</Output>
+      <Time>2013-03-21T10:46:50.3479267-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\DaggerR.png</Source>
+      <Name>Images\DaggerR</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Azad\Documents\Visual Studio 2010\Projects\Castlevania Clone\Castlevania Clone\Castlevania Clone\bin\x86\Debug\Content\Images\DaggerR.xnb</Output>
+      <Time>2013-03-21T10:47:09.9944036-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\skeletons.png</Source>
+      <Name>Images\skeletons</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Azad\Documents\Visual Studio 2010\Projects\Castlevania Clone\Castlevania Clone\Castlevania Clone\bin\x86\Debug\Content\Images\skeletons.xnb</Output>
+      <Time>2013-03-21T18:10:20.3760256-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\GameFont.spritefont</Source>
+      <Name>Fonts\GameFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Azad\Documents\Visual Studio 2010\Projects\Castlevania Clone\Castlevania Clone\Castlevania Clone\bin\x86\Debug\Content\Fonts\GameFont.xnb</Output>
+      <Time>2013-03-23T15:38:55.0087869-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\stage2.png</Source>
+      <Name>Images\stage2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Azad\Documents\Visual Studio 2010\Projects\Castlevania Clone\Castlevania Clone\Castlevania Clone\bin\x86\Debug\Content\Images\stage2.xnb</Output>
+      <Time>2013-03-22T21:26:22.5825219-07:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>true</CompressContent>
+      <RootDirectory>C:\Users\Azad\Documents\Visual Studio 2010\Projects\Castlevania Clone\Castlevania Clone\Castlevania CloneContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Azad\Documents\Visual Studio 2010\Projects\Castlevania Clone\Castlevania Clone\Castlevania Clone\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Azad\Documents\Visual Studio 2010\Projects\Castlevania Clone\Castlevania Clone\Castlevania CloneContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Azad\Documents\Visual Studio 2010\Projects\Castlevania Clone\Castlevania Clone\Castlevania Clone\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Users\Azad\Documents\Visual Studio 2010\Projects\Castlevania Clone\Castlevania Clone\GifAnimation.Pipeline\bin\x86\Debug\GifAnimation.Pipeline.dll</Key>
+        <Value>2013-03-19T19:40:52.8126372-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Users\Azad\Documents\Visual Studio 2010\Projects\Castlevania Clone\Castlevania Clone\GifAnimation\bin\x86\Debug\GifAnimation.dll</Key>
+        <Value>2013-03-19T19:40:52.4173639-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-03-19T12:36:15.2493342-07:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

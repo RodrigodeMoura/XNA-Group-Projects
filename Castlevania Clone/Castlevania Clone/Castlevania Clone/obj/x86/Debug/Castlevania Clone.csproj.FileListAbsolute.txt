@@ -1,0 +1,27 @@
+C:\Users\Azad\Documents\Visual Studio 2010\Projects\Castlevania Clone\Castlevania Clone\Castlevania Clone\bin\x86\Debug\Content\Images\VampireBatR.xnb
+C:\Users\Azad\Documents\Visual Studio 2010\Projects\Castlevania Clone\Castlevania Clone\Castlevania Clone\bin\x86\Debug\Castlevania Clone.exe
+C:\Users\Azad\Documents\Visual Studio 2010\Projects\Castlevania Clone\Castlevania Clone\Castlevania Clone\bin\x86\Debug\Castlevania Clone.pdb
+C:\Users\Azad\Documents\Visual Studio 2010\Projects\Castlevania Clone\Castlevania Clone\Castlevania Clone\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Azad\Documents\Visual Studio 2010\Projects\Castlevania Clone\Castlevania Clone\Castlevania Clone\obj\x86\Debug\Castlevania Clone.exe
+C:\Users\Azad\Documents\Visual Studio 2010\Projects\Castlevania Clone\Castlevania Clone\Castlevania Clone\obj\x86\Debug\Castlevania Clone.pdb
+C:\Users\Azad\Documents\Visual Studio 2010\Projects\Castlevania Clone\Castlevania Clone\Castlevania Clone\bin\x86\Debug\Content\Images\block.xnb
+C:\Users\Azad\Documents\Visual Studio 2010\Projects\Castlevania Clone\Castlevania Clone\Castlevania Clone\bin\x86\Debug\Content\Images\stair.xnb
+C:\Users\Azad\Documents\Visual Studio 2010\Projects\Castlevania Clone\Castlevania Clone\Castlevania Clone\bin\x86\Debug\Content\Images\simon.xnb
+C:\Users\Azad\Documents\Visual Studio 2010\Projects\Castlevania Clone\Castlevania Clone\Castlevania Clone\bin\x86\Debug\Content\Music\music.xnb
+C:\Users\Azad\Documents\Visual Studio 2010\Projects\Castlevania Clone\Castlevania Clone\Castlevania Clone\bin\x86\Debug\Content\Music\music.wma
+C:\Users\Azad\Documents\Visual Studio 2010\Projects\Castlevania Clone\Castlevania Clone\Castlevania Clone\obj\x86\Debug\Castlevania Clone.csprojResolveAssemblyReference.cache
+C:\Users\Azad\Documents\Visual Studio 2010\Projects\Castlevania Clone\Castlevania Clone\Castlevania Clone\bin\x86\Debug\GifAnimation.dll
+C:\Users\Azad\Documents\Visual Studio 2010\Projects\Castlevania Clone\Castlevania Clone\Castlevania Clone\bin\x86\Debug\GifAnimation.pdb
+C:\Users\Azad\Documents\Visual Studio 2010\Projects\Castlevania Clone\Castlevania Clone\Castlevania Clone\bin\x86\Debug\Content\Images\LargeCandleGif.xnb
+C:\Users\Azad\Documents\Visual Studio 2010\Projects\Castlevania Clone\Castlevania Clone\Castlevania Clone\bin\x86\Debug\Content\Images\castlevaniast1.xnb
+C:\Users\Azad\Documents\Visual Studio 2010\Projects\Castlevania Clone\Castlevania Clone\Castlevania Clone\bin\x86\Debug\Content\MedusaR.xnb
+C:\Users\Azad\Documents\Visual Studio 2010\Projects\Castlevania Clone\Castlevania Clone\Castlevania Clone\bin\x86\Debug\Content\Images\MedusaR.xnb
+C:\Users\Azad\Documents\Visual Studio 2010\Projects\Castlevania Clone\Castlevania Clone\Castlevania Clone\bin\x86\Debug\Content\Images\TrevorC3.xnb
+C:\Users\Azad\Documents\Visual Studio 2010\Projects\Castlevania Clone\Castlevania Clone\Castlevania Clone\bin\x86\Debug\Content\Images\trevorwalk.xnb
+C:\Users\Azad\Documents\Visual Studio 2010\Projects\Castlevania Clone\Castlevania Clone\Castlevania Clone\bin\x86\Debug\Content\Images\trevorwalkR.xnb
+C:\Users\Azad\Documents\Visual Studio 2010\Projects\Castlevania Clone\Castlevania Clone\Castlevania Clone\bin\x86\Debug\Content\Images\trevorwhip.xnb
+C:\Users\Azad\Documents\Visual Studio 2010\Projects\Castlevania Clone\Castlevania Clone\Castlevania Clone\bin\x86\Debug\Content\Images\DaggerL.xnb
+C:\Users\Azad\Documents\Visual Studio 2010\Projects\Castlevania Clone\Castlevania Clone\Castlevania Clone\bin\x86\Debug\Content\Images\DaggerR.xnb
+C:\Users\Azad\Documents\Visual Studio 2010\Projects\Castlevania Clone\Castlevania Clone\Castlevania Clone\bin\x86\Debug\Content\Images\skeletons.xnb
+C:\Users\Azad\Documents\Visual Studio 2010\Projects\Castlevania Clone\Castlevania Clone\Castlevania Clone\bin\x86\Debug\Content\Fonts\GameFont.xnb
+C:\Users\Azad\Documents\Visual Studio 2010\Projects\Castlevania Clone\Castlevania Clone\Castlevania Clone\bin\x86\Debug\Content\Images\stage2.xnb
