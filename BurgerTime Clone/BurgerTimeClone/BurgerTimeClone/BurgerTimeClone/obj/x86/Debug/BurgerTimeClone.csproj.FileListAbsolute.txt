@@ -1,0 +1,9 @@
+C:\Users\Azad\Documents\Visual Studio 2010\Projects\BurgerTimeClone\BurgerTimeClone\BurgerTimeClone\bin\x86\Debug\Content\Textures\tiles.xnb
+C:\Users\Azad\Documents\Visual Studio 2010\Projects\BurgerTimeClone\BurgerTimeClone\BurgerTimeClone\bin\x86\Debug\Content\Textures\player.xnb
+C:\Users\Azad\Documents\Visual Studio 2010\Projects\BurgerTimeClone\BurgerTimeClone\BurgerTimeClone\bin\x86\Debug\Content\Textures\enemy.xnb
+C:\Users\Azad\Documents\Visual Studio 2010\Projects\BurgerTimeClone\BurgerTimeClone\BurgerTimeClone\bin\x86\Debug\BurgerTimeClone.exe
+C:\Users\Azad\Documents\Visual Studio 2010\Projects\BurgerTimeClone\BurgerTimeClone\BurgerTimeClone\bin\x86\Debug\BurgerTimeClone.pdb
+C:\Users\Azad\Documents\Visual Studio 2010\Projects\BurgerTimeClone\BurgerTimeClone\BurgerTimeClone\obj\x86\Debug\BurgerTimeClone.csprojResolveAssemblyReference.cache
+C:\Users\Azad\Documents\Visual Studio 2010\Projects\BurgerTimeClone\BurgerTimeClone\BurgerTimeClone\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Azad\Documents\Visual Studio 2010\Projects\BurgerTimeClone\BurgerTimeClone\BurgerTimeClone\obj\x86\Debug\BurgerTimeClone.exe
+C:\Users\Azad\Documents\Visual Studio 2010\Projects\BurgerTimeClone\BurgerTimeClone\BurgerTimeClone\obj\x86\Debug\BurgerTimeClone.pdb

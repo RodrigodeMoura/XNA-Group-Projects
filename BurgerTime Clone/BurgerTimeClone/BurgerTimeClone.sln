@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BurgerTimeClone", "BurgerTimeClone\BurgerTimeClone\BurgerTimeClone.csproj", "{58605165-5025-4C62-A18D-724719E9B0FD}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "BurgerTimeCloneContent", "BurgerTimeClone\BurgerTimeCloneContent\BurgerTimeCloneContent.contentproj", "{4231E600-C061-4D9B-90F2-98C2245F59AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58605165-5025-4C62-A18D-724719E9B0FD}.Debug|x86.ActiveCfg = Debug|x86
+		{58605165-5025-4C62-A18D-724719E9B0FD}.Debug|x86.Build.0 = Debug|x86
+		{58605165-5025-4C62-A18D-724719E9B0FD}.Release|x86.ActiveCfg = Release|x86
+		{58605165-5025-4C62-A18D-724719E9B0FD}.Release|x86.Build.0 = Release|x86
+		{4231E600-C061-4D9B-90F2-98C2245F59AA}.Debug|x86.ActiveCfg = Debug|x86
+		{4231E600-C061-4D9B-90F2-98C2245F59AA}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
